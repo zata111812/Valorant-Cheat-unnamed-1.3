@@ -29,7 +29,7 @@
 - ThirdPerson  
 - BunnyHop  
 # Download and Installation
-- Go to the Releases page.  
+- Go to the [Releases](https://github.com/zata111812/Valorant-Cheat-unnamed-1.3/releases/tag/v1.3) page.  
 - Download the latest EXE (unnamed 1.x.exe)  
 - Open your Valorant(Open Borderless Fullscreen)  
 - Run the EXE with Valorant running  
