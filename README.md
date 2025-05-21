@@ -3,8 +3,8 @@
 
 # Features
 ## Aimbot
-*Recoil Control System  
-+Aim Speed  
+- Recoil Control System  
+- Aim Speed  
 -Aim Bone  
 -Aim Fov  
 -Aim Key  
